@@ -1,6 +1,5 @@
 import 'package:ex_booking/routes/app_route_names.dart';
 import 'package:ex_booking/routes/app_routes.dart';
-import 'package:ex_booking/screens/home/bindings/home_binding.dart';
 import 'package:ex_booking/theme/theme_service.dart';
 import 'package:ex_booking/theme/themes.dart';
 import 'package:flutter/material.dart';

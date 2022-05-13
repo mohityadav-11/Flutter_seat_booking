@@ -1,6 +1,5 @@
 import 'package:ex_booking/constants/app_colors.dart';
 import 'package:ex_booking/constants/text_strings.dart';
-import 'package:ex_booking/theme/themes.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
